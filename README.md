@@ -5,7 +5,7 @@ I’m **Towfiq**!  I’m a software engineer who is passionate about making thin
 **I'm a Learner, Solution Developer, Coder and Linux 🐧 Lover.**
 
 - 🔭 I’m currently working in **JAVA** :coffee: **(SPRING-BOOT)** :herb: :leaves:
-- 🌱 I’m currently learning  **AWS** :sparkles:,  **SWAGGER** :chart: 
+<!-- - 🌱 I’m currently learning  **AWS** :sparkles:,  **SWAGGER** :chart: -->
 - 👯 I’m looking to collaborate on anything... :revolving_hearts:
 - 💬 Ask me about anything you want to know... :question:
 - 📫 How to reach me: [EMAIL](towfiq.106@gmail.com) :email:
