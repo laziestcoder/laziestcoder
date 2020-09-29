@@ -4,23 +4,43 @@ I’m **Towfiq**!  I’m a software engineer who is passionate about making thin
 **algorithm design**, and most of all **simplifying things**.
 **I'm a Learner, Solution Developer, Coder and Linux 🐧 Lover.**
 
-- 🔭 I’m currently working in **JAVA (SPRING-BOOT)** :coffee:
-- 🌱 I’m currently learning  **AWS**, **SWAGGER**
-- 👯 I’m looking to collaborate on anything...
-- 💬 Ask me about anything you want to know...
+- 🔭 I’m currently working in **JAVA** :coffee: *(SPRING-BOOT)** :herb: :leaves:
+- 🌱 I’m currently learning  **AWS** :sparkles:,  **SWAGGER** :chart: 
+- 👯 I’m looking to collaborate on anything... :revolving_hearts:
+- 💬 Ask me about anything you want to know... :question:
 - 📫 How to reach me: [GMAIL](towfiq.106@gmail.com) :email:
 
 🌍 Find me on the web:
 
-- StackOverflow: [laziestcoder](https://stackoverflow.com/users/6688908/laziestcoder)
-- LinkedIn: [towfiq106](hhttps://www.linkedin.com/in/towfiq106/)
-- Tweets: [@TowfiqIslam](hhttps://twitter.com/TowfiqIslam)
+- StackOverflow: [@laziestcoder](https://stackoverflow.com/users/6688908/laziestcoder)
+- LinkedIn: [@towfiq106](https://www.linkedin.com/in/towfiq106/)
+- Tweets: [@TowfiqIslam](https://twitter.com/TowfiqIslam)
 
-## Works that I want to share with joy :happy:
+## Works that I want to share with joy :smiley:
 - [Repository and Service Command](https://github.com/laziestcoder/RepositoryAndServiceCommand) - Laravel commands for 
 making files for `Repository Design Pattern` design pattern to simplify my work and faster file creation.
-- 
-- 
+- [Java Brick Breaker](https://github.com/laziestcoder/JavaBrickBreaker) - A brick breaker game I made during learning
+ **Java**. :coffee: :roller_coaster:
+- [Transport Management System](https://github.com/laziestcoder/IIUC_Transport_Management_System) - A project on 
+Transportation Management, that helps people managing and distribution their transports. :articulated_lorry: :bus: 
+:oncoming_bus: :minibus: :truck: :trolleybus:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **laziestcoder/laziestcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
