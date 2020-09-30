@@ -17,7 +17,7 @@ I’m **Towfiq**!  I’m a software engineer who is passionate about making thin
 
 ## Works that I want to share with joy :smiley:
 - [Repository and Service Command](https://github.com/laziestcoder/RepositoryAndServiceCommand) - Laravel commands for 
-making files for `Repository Design Pattern` design pattern to simplify my work and faster file creation. `{..}`
+making files for `Repository Design Pattern` to simplify my work and faster file creation. `{..}`
 - [Java Brick Breaker](https://github.com/laziestcoder/JavaBrickBreaker) - A brick breaker game I made during learning
  **Java**. :coffee: :roller_coaster:
 - [Transport Management System](https://github.com/laziestcoder/IIUC_Transport_Management_System) - A project on 
