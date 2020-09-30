@@ -21,7 +21,7 @@ making files for `Repository Design Pattern` to simplify my work and faster file
 - [Java Brick Breaker](https://github.com/laziestcoder/JavaBrickBreaker) - A brick breaker game I made during learning
  **Java**. :coffee: :roller_coaster:
 - [Transport Management System](https://github.com/laziestcoder/IIUC_Transport_Management_System) - A project on 
-Transportation Management, that helps people managing and distribution their transports. :articulated_lorry: :bus: 
+Transportation Management, that helps people to manage and distribute their transports according to passenger demand. :articulated_lorry: :bus: 
 :oncoming_bus: :minibus: :truck: :trolleybus:
 
 
