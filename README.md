@@ -14,6 +14,7 @@ I’m **Towfiq**!  I’m a software engineer who is passionate about making thin
 - StackOverflow: [@laziestcoder](https://stackoverflow.com/users/6688908/laziestcoder)
 - LinkedIn: [@towfiq106](https://www.linkedin.com/in/towfiq106/)
 - Tweets: [@TowfiqIslam](https://twitter.com/TowfiqIslam)
+- To know more visit : [laziestcoder.github.io](https://laziestcoder.github.io/)
 
 ## Works that I want to share with joy :smiley:
 - [Repository and Service Command](https://github.com/laziestcoder/RepositoryAndServiceCommand) - Laravel commands for 
