@@ -25,7 +25,11 @@ making files for `Repository Design Pattern` to simplify my work and faster file
 Transportation Management, that helps people to manage and distribute their transports according to passenger demand. :articulated_lorry: :bus: 
 :oncoming_bus: :minibus: :truck: :trolleybus:
 
+##
 
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=laziestcoder&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
+</p>
 
 
 
