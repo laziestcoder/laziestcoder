@@ -34,13 +34,13 @@ Transportation Management, that helps people to manage and distribute their tran
 </p>
 
 ### Official Id's
-#### [towfiq-bkash](https://githib.com/towfiq-bkash)
+#### [towfiq-bkash](https://github.com/towfiq-bkash)
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=towfiq-bkash&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true">
 </p>
 
-#### [towfiq-inflack](https://githib.com/towfiq-inflack)
+#### [towfiq-inflack](https://github.com/towfiq-inflack)
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=towfiq-inflack&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true">
