@@ -25,18 +25,26 @@ making files for `Repository Design Pattern` to simplify my work and faster file
 Transportation Management, that helps people to manage and distribute their transports according to passenger demand. :articulated_lorry: :bus: 
 :oncoming_bus: :minibus: :truck: :trolleybus:
 
-##
+
+## Github Stats
+### Personal Id
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=laziestcoder&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true">
 </p>
 
 ### Official Id's
+#### [towfiq-bkash](https://githib.com/towfiq-bkash)
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=towfiq-bkash&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true">
 </p>
 
+#### [towfiq-inflack](https://githib.com/towfiq-inflack)
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=towfiq-inflack&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true">
+</p>
 
 
 
