@@ -9,7 +9,7 @@ I’m **Towfiq**!  I’m a software engineer who is passionate about making thin
 
 ## 🌍 Find me on the web:
 <a href="mailto:towfiq.106@gmail.com"><img align="left" alt="email" width="22px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-<a href="https://www.linkedin.com/in/towfiq.106/"><img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/towfiq106/"><img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 <a href="https://twitter.com/TowfiqIslam"><img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
 <a href="https://laziestcoder.github.io/"><img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/96/000000/globe.png" /></a>
 <a href="https://stackoverflow.com/users/6688908/laziestcoder"><img align="left" alt="StackOverflow" width="22px" src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
