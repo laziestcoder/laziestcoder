@@ -1,5 +1,4 @@
-### Assalamu Aalaikum. Peace be upon you! 👋
-
+### Assalamu Aalaikum. Peace be upon you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I’m **Towfiq**!  I’m a software engineer who is passionate about making things **automated**, **building products**, 
 **algorithm design**, and most of all **simplifying things**.
 **I'm a Learner, Solution Developer, Coder and Linux 🐧 Lover.**
@@ -7,14 +6,14 @@ I’m **Towfiq**!  I’m a software engineer who is passionate about making thin
 - 🔭 I’m currently working in **JAVA** :coffee: **(SPRING-BOOT)** :herb: :leaves:
 - 👯 I’m looking to collaborate on anything... :revolving_hearts:
 - 💬 Ask me about anything you want to know... :question:
-- 📫 How to reach me: [EMAIL](mailto:towfiq.106@gmail.com) :email:
 
-🌍 Find me on the web:
-
-- StackOverflow: [@laziestcoder](https://stackoverflow.com/users/6688908/laziestcoder)
-- LinkedIn: [@towfiq106](https://www.linkedin.com/in/towfiq106/)
-- Tweets: [@TowfiqIslam](https://twitter.com/TowfiqIslam)
-- To know more visit : [laziestcoder.github.io](https://laziestcoder.github.io/)
+## 🌍 Find me on the web:
+<a href="mailto:towfiq.106@gmail.com"><img align="left" alt="email" width="22px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+<a href="https://www.linkedin.com/in/towfiq.106/"><img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<a href="https://twitter.com/TowfiqIslam"><img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+<a href="https://laziestcoder.github.io/"><img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/96/000000/globe.png" /></a>
+<a href="https://stackoverflow.com/users/6688908/laziestcoder"><img align="left" alt="StackOverflow" width="22px" src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+![](https://visitor-badge.glitch.me/badge?page_id=laziestcoder)
 
 ## Works that I want to share with joy :smiley:
 - [Repository and Service Command](https://github.com/laziestcoder/RepositoryAndServiceCommand) - Laravel commands for 
@@ -26,28 +25,17 @@ Transportation Management, that helps people to manage and distribute their tran
 :oncoming_bus: :minibus: :truck: :trolleybus:
 
 
-## Github Stats
+## GitHub Stats
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laziestcoder&hide=javascript,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Personal Id
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=laziestcoder&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=laziestcoder&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true">
-</p>
-
-### Official Id
+### Office Id(s)
 #### [towfiq-bkash](https://github.com/towfiq-bK)
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=towfiq-bK&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true">
-</p>
-
-
-
-
-
-
-
-
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=towfiq-bK&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
