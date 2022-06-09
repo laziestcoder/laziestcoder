@@ -1,4 +1,4 @@
-### Assalamu Aalaikum. Peace be upon you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Assalamu Aalaikum. Peace be upon you! 👋
 I’m **Towfiq**!  I’m a software engineer who is passionate about making things **automated**, **building products**, 
 **algorithm design**, and most of all **simplifying things**.
 **I'm a Learner, Solution Developer, Coder and Linux 🐧 Lover.**
