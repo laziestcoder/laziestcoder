@@ -15,7 +15,6 @@ I’m **Towfiq**!  I’m a software engineer who is passionate about making thin
 <a href="https://stackoverflow.com/users/6688908/laziestcoder"><img align="left" alt="StackOverflow" width="22px" src="https://img.icons8.com/color/96/000000/stackoverflow.png" /></a>
 
 
-
 ## Works that I want to share with joy :smiley:
 - [Repository and Service Command](https://github.com/laziestcoder/RepositoryAndServiceCommand) - Laravel commands for 
 making files for `Repository Design Pattern` to simplify my work and faster file creation. `{..}`
