@@ -7,6 +7,7 @@ I’m **Towfiq**!  I’m a software engineer who is passionate about making thin
 - 👯 I’m looking to collaborate on anything... :revolving_hearts:
 - 💬 Ask me about anything you want to know... :question:
 
+### <HR>
 ## 🌍 Find me on the web:
 <a href="mailto:towfiq.106@gmail.com"><img align="left" alt="email" width="22px" src="https://img.icons8.com/color/96/000000/gmail.png" /></a>
 <a href="https://www.linkedin.com/in/towfiq106/"><img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
@@ -14,7 +15,7 @@ I’m **Towfiq**!  I’m a software engineer who is passionate about making thin
 <a href="https://laziestcoder.github.io/"><img align="left" alt="GitHub" width="22px" src="https://img.icons8.com/color/96/000000/globe.png" /></a>
 <a href="https://stackoverflow.com/users/6688908/laziestcoder"><img align="left" alt="StackOverflow" width="22px" src="https://img.icons8.com/color/96/000000/stackoverflow.png" /></a>
 
-
+### <HR>
 ## Works that I want to share with joy :smiley:
 - [Repository and Service Command](https://github.com/laziestcoder/RepositoryAndServiceCommand) - Laravel commands for 
 making files for `Repository Design Pattern` to simplify my work and faster file creation. `{..}`
@@ -25,6 +26,7 @@ Transportation Management, that helps people to manage and distribute their tran
 :oncoming_bus: :minibus: :truck: :trolleybus:
 
 
+### <HR>
 ## GitHub Stats
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laziestcoder&hide=javascript,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -40,29 +42,3 @@ Transportation Management, that helps people to manage and distribute their tran
 #### [towfiq-selise](https://github.com/towfiq-selise)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=towfiq-selise&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- #### [towfiq-inflack](https://github.com/towfiq-inflack)
-
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=towfiq-inflack&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true">
-</p>
-
--->
-
-<!-- - 🌱 I’m currently learning  **AWS** :sparkles:,  **SWAGGER** :chart: -->
-
-<!--
-**laziestcoder/laziestcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
