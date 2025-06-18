@@ -6,7 +6,7 @@
 
 🛠 Tech I love working with: Java, Spring, Docker, Kafka, WebSockets, MQTT, TimescaleDB, JHipster, Web3J
 
-🌍 To know more check [my profile](https://laziestcoder.github.io) in a glance
+🌍 To know more, check [my profile](https://laziestcoder.github.io) at a glance
 
 - 🔭 I’m currently working in **JAVA** :coffee: **(SPRING-BOOT)** :herb: :leaves:
 - 👯 I’m looking to collaborate on anything... :revolving_hearts:
