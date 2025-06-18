@@ -59,16 +59,17 @@ increment_version:
 commit_changes:
 	@$(call check_tag_number) \
     rm $(TAG_NUMBER_FILE); \
-	git add .; \
-	git commit -m "updated to $$TAG_NUMBER"; \
-	echo "Changes committed with tag $$TAG_NUMBER."; \
+#	git add .; \
+#	git commit -m "updated to $$TAG_NUMBER"; \
+#	echo "Changes committed with tag $$TAG_NUMBER."; \
 	echo "$$TAG_NUMBER" > $(TAG_NUMBER_FILE);
 
 # Create a git tag with the given tag number
 create_tag:
 	@$(call check_tag_number) \
 	git tag "$$TAG_NUMBER"; \
-	echo "Tag $$TAG_NUMBER created.";
+	echo "Tag $$TAG_NUMBER created."; \
+	rm $(TAG_NUMBER_FILE);
 
 
 # Push the changes to the origin branch
@@ -86,9 +87,9 @@ push_tags:
 # Clean up
 clean:
 	@echo "Cleaning up..."
-	@git reset --hard HEAD
+	@git reset --soft HEAD
 	@echo "Cleanup done."
-	@rm $(TAG_NUMBER_FILE);
+	@rm $(TAG_NUMBER_FILE)
 
 
 # Help message
@@ -96,13 +97,14 @@ help:
 	@echo "Usage:"
 	@echo "  make update_version <tag_number>"
 	@echo "Targets:"
-	@echo "  all             Updates version, commits changes, creates a tag, and pushes changes."
+	@echo "  all             	Updates version, commits changes, creates a tag, and pushes changes."
+	@echo "  increment_version  Increments the version in by 1 patch level."
 	@#echo "  update_version  Updates the version in pom.xml."
-	@echo "  commit_changes  Commits the changes with a message."
-	@echo "  create_tag      Creates a git tag."
-	@echo "  push_changes    Pushes changes to the origin branch."
-	@echo "  push_tags       Pushes all tags to the remote repository."
-	@echo "  clean           Resets changes to HEAD."
+	@echo "  commit_changes  	Commits the changes with a message."
+	@echo "  create_tag      	Creates a git tag."
+	@echo "  push_changes    	Pushes changes to the origin branch."
+	@echo "  push_tags       	Pushes all tags to the remote repository."
+	@echo "  clean           	Resets changes to HEAD."
 
 # Handle arguments for the update_version target
 %:
